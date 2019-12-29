@@ -1,0 +1,4 @@
+function HTMLScriptElement(){
+    
+    alert('test');
+}
